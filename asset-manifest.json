@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/photojaanic-project/static/css/main.778b4030.css",
+    "main.js": "/photojaanic-project/static/js/main.c1697689.js",
+    "static/js/787.d4425ceb.chunk.js": "/photojaanic-project/static/js/787.d4425ceb.chunk.js",
+    "static/media/Image3.jpg": "/photojaanic-project/static/media/Image3.0ed698e3df25293ae31c.jpg",
+    "static/media/Image5.jpg": "/photojaanic-project/static/media/Image5.1d9d08ff5d90ed0a8265.jpg",
+    "static/media/Image2.jpg": "/photojaanic-project/static/media/Image2.c623122e70a0e546b8da.jpg",
+    "static/media/Image4.jpg": "/photojaanic-project/static/media/Image4.ba74e4db5d0403f164f8.jpg",
+    "static/media/Image1.jpg": "/photojaanic-project/static/media/Image1.dbd09c692f634f2c5867.jpg",
+    "index.html": "/photojaanic-project/index.html",
+    "main.778b4030.css.map": "/photojaanic-project/static/css/main.778b4030.css.map",
+    "main.c1697689.js.map": "/photojaanic-project/static/js/main.c1697689.js.map",
+    "787.d4425ceb.chunk.js.map": "/photojaanic-project/static/js/787.d4425ceb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778b4030.css",
+    "static/js/main.c1697689.js"
+  ]
+}
