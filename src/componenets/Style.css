@@ -1,0 +1,96 @@
+.body{
+    overflow-x: hidden;
+}
+
+.main_slider{
+    padding-top: 0px ;
+   }
+
+.carousel .thumbs-wrapper {
+    margin: 20px;
+    overflow: hidden;
+    text-align: center;
+    width: 100%;
+}
+
+.text{
+    text-align: justify;
+    padding: 10px;
+} 
+
+.carousel .thumb {
+    transition: border .15s ease-in;
+    display: inline-block;
+    margin-right: 6px;
+    white-space: nowrap;
+    overflow: hidden;
+    border: 3px solid #fff;
+    padding: 2px;
+    width: 15% !important;
+}
+.text2 button.create.btn.btn-outlined {
+    background-color: #ff0101;
+    color: #fff;
+}
+
+.text2 h2 {
+    color: #ba1515;
+    padding-top: 10px;
+    
+}
+
+.img-size label {padding-left: 5px;}
+
+.img-size {padding-left: 15px;}
+
+.Header a.navbar-brand {padding-left: 12px;}
+
+@media (max-width: 1200px){
+    .Header a.navbar-brand {padding-left: 12px;}
+    .carousel .thumb{ width: 15% !important;}
+    .thumbs-wrapper ul.thumbs.animated {padding: 0px; margin: 0px;}
+    .text{text-align: justify;padding: 0px  0px 0px 25px;} 
+    .img-size {padding-left: 23px;}
+    .img-size label {padding-left: 5px;}
+    .text2 h2 { color: #ba1515;padding-top: 10px;font-size: 26px;}
+
+    
+}
+
+@media (max-width: 991px){
+    .Header a.navbar-brand {padding-left: 12px;}
+    .carousel .thumb{ width: 25% !important;}
+    .thumbs-wrapper ul.thumbs.animated {padding: 0px; margin: 0px;}
+    .text{text-align: justify;padding: 0px  0px 0px 20px;} 
+    .img-size {padding-left: 20px;}
+    .img-size label {padding-left: 5px;}
+    .text2 h2 { color: #ba1515;padding-top: 10px;font-size: 24px;}
+}
+
+@media (max-width: 767px){
+     .Header a.navbar-brand {padding-left: 8px;}
+    .carousel .thumb{ width: 25% !important;}
+    .thumbs-wrapper ul.thumbs.animated {padding: 0px; margin: 0px;}
+    .text{text-align: justify;padding: 0px  0px 0px 15px;} 
+    .img-size {padding-left: 15px;}
+    .img-size label {padding-left: 5px;}
+    .text2 h2 { color: #ba1515;padding-top: 10px;font-size: 22px;}
+    .text-center {
+        text-align: center!important;
+    }
+}
+
+@media (max-width: 576px){
+
+    .Header a.navbar-brand {padding-left: 12px;}
+    .carousel .thumb{ width: 25% !important;}
+    .thumbs-wrapper ul.thumbs.animated {padding: 0px; margin: 0px;}
+    .text{text-align: justify;padding: 0px  0px 0px 15px;} 
+    .img-size {padding-left: 15px;}
+    .img-size label {padding-left: 5px;}
+    .text2 h2 { color: #ba1515;padding-top: 10px;font-size: 18px;}
+    .text2 {
+        text-align: center!important;
+    }
+}
+
